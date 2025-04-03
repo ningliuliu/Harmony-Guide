@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+fuzzywuzzy
+python-Levenshtein
+streamlit
+requests
+spotipy
+python-dotenv
