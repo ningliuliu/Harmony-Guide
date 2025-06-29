@@ -183,7 +183,7 @@ graph TD
 - [ ] Phase 4: AI-powered playlist generation
 
 ## 📄 License
-Distributed under MIT License. See `LICENSE` for full text.
+Distributed under MIT License. See [MIT License](LICENSE) for full text.
 
 ## 🙏 Acknowledgments
 - Spotify API team
