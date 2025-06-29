@@ -1,4 +1,4 @@
-# 🎵 Harmony Guide - Music Recommendation Chatbot
+# 🎵 Harmony Guide - Music Recommendation System
 
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
