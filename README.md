@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-Million--Playlist--Dataset-orange)](https://github.com/spotify-research/spotify-million-playlist-dataset)
 [![Built with](https://img.shields.io/badge/Built%20With-Collaborative%20Filtering-blueviolet)](#)
-[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 An intelligent music recommendation system combining Spotify's API with machine learning insights, featuring a modern Streamlit interface for seamless user interaction.
 
