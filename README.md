@@ -34,6 +34,15 @@ An intelligent music recommendation system combining Spotify's API with machine 
 - GDPR-compliant data handling
 - Rate limit monitoring
 
+## 📦 Assets & Pretrained Models
+
+The pre-trained collaborative filtering model (`cf_model.keras`) is available for download via the [latest release](https://github.com/RajathPatilKulkarni/Harmony-Guide/releases).
+
+- **File**: `cf_model.keras`
+- **Format**: Keras SavedModel
+- **Trained on**: 170,089 songs from the Spotify Million Playlist Dataset
+- **Purpose**: Recommends a track based on co-occurrence patterns with the user’s input song
+  
 ## 🚀 Getting Started
 
 ### Prerequisites
